@@ -1,0 +1,39 @@
+h2 {
+    margin-top: 10px;
+}
+
+.j9 {
+    width: 350px;
+    height: 230px;
+    border: 10px solid orange;
+}
+
+.j9 {
+    width: 400px;
+    height: 230px;
+    border: 10px solid orange;
+}
+
+.q {
+    color: aqua;
+}
+
+.w {
+    color:orange;
+}
+
+.e {
+    color:gold;
+}
+
+.r {
+    color:green;
+}
+
+.t {
+    color: red;
+}
+
+p {
+    font-size: 25px;
+}
