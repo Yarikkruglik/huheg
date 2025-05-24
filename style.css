@@ -1,15 +1,5 @@
-h2 {
-    margin-top: 10px;
-}
-
 .j9 {
     width: 350px;
-    height: 230px;
-    border: 10px solid orange;
-}
-
-.j9 {
-    width: 400px;
     height: 230px;
     border: 10px solid orange;
 }
@@ -37,3 +27,75 @@ h2 {
 p {
     font-size: 25px;
 }
+
+h1 {
+    color: white;
+}
+
+.p {
+    color: white;
+}
+
+.h0 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header {
+    position: fixed;
+    width: 23%;
+    height: 150px;
+    background-color:#9480ee ;
+    border-radius: 20px;
+}
+
+main {
+    padding-top: 200px;
+}
+
+a {
+    font-size: 24px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: #644AD8;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.m4 {
+    text-align: center;
+    background-color:#9480ee;
+ }
+
+ aside {
+    position: fixed;
+    right: 10px;
+    top: 20px;
+    background-color:#644AD8;
+ }
+
+ aside a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+ }
